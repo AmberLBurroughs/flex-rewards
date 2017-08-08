@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'activerecord'
+gem 'faraday'
+gem 'heroku'
+gem 'klaviyo'
+gem 'pg'
+gem 'pry'
+gem 'rake'
+gem 'sinatra'
+gem 'sinatra-activerecord'
+gem 'sinatra-cross_origin'
+gem 'thin'
